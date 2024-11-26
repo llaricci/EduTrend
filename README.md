@@ -1,6 +1,6 @@
 # EduTrend
 
-EduTrend is an educational software designed to receive inputs made by a
+EduTrend is an educational application designed to receive inputs made by a
 school staff member on to an app or device, record the
 frequency and timing of these inputs, and analyze trends based
 on the collected data and other relevant external factors. The
